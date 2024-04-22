@@ -1,0 +1,19 @@
+ Windows Shortcurt Key 
+vs code open ctr+shift+n
+Zooming out ctr + =/-
+console show and hiding ctr + <-
+show side bar ctr + B
+Hide extention bar ctr + shift + E
+Find ctr + shift + F
+in Search control ctr + shift + G
+curt of part recoding Full Screen View ctr + k + z
+Search file by name ctr + P
+Couple of line add ctr + s
+multiple line edited ctr + k + s
+up and down ctr + home and end
+Referance Variable ctr + F12
+Multiselect front same time edit selected front ctr + D
+select front edit updated everyware F2
+Alt +shift + up and down
+
+
